@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "alejandro";
+    src: url("../fuentes/MedievalSharp-Regular.ttf");
+}
+
+body {
+
+    font-family: "alejandro";
+    background-image: url("../src/img/fondo-taberna.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffce81;
+    margin: 0;
+    padding-left: 5%;
+    font-size: 28px;
+    padding-right: 5%;
+    
+}
+/*MENU PRINCIPAL*/
+/*SOBRE MI*/
