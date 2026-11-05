@@ -11,10 +11,23 @@ body {
     background-size: cover;
     color: #ffce81;
     margin: 0;
-    padding-left: 5%;
-    font-size: 28px;
-    padding-right: 5%;
+    font-size: 25px;
+    display: flex; 
+    justify-content: center;
+
     
+    
+}
+.pergamino{
+    background-image: url(../src/img/scroll.png);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:380px ;
+    width: 100%;
+    padding:0 20%;
+    padding-top: 30%;
+    color: black;
 }
 /*MENU PRINCIPAL*/
 /*SOBRE MI*/
