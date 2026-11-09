@@ -12,19 +12,27 @@ body {
     color: #ffce81;
     margin: 0;
     font-size: 25px;
-    display: flex;
-    justify-content: center;
+
+
 
 
 }
+
 .titulo {
 
     width: 50%;
+
 }
+
+#presentacion p {
+    width: 75%; margin: auto;
+    align-items: center; 
+    
+}
+
 .pergamino {
     width: 50%;
     background-image: url(../src/img/scroll.png);
-
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -32,12 +40,25 @@ body {
     color: black;
     padding-left: 10%;
 
+}
+
+#enlaces {
+    padding: 50px;
 
 
 }
 
+.lista {
+    width: 70%;
+}
 
-    
+
+
+
+
+
+
+
 
 
 
