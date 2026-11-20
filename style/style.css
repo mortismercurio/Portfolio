@@ -42,15 +42,46 @@ body {
 
 }
 
-#enlaces {
-    padding: 50px;
+.border {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+}
+
+.border a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+    background-color: #ffce81;
+    color: black;
+    border-radius: 11px;
+    height: 30px;
+    padding: 20px;
+
+
+
+    
 
 
 }
+
 
 .lista {
     width: 70%;
 }
+
+h1 {
+      margin-left:40px;
+    
+}
+ 
+
+
 
 
 
