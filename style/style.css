@@ -39,10 +39,11 @@ body {
     padding-top: 18%;
     color: black;
     padding-left: 10%;
+    
 
 }
 
-.border {
+.borde {
 
     display: flex;
     justify-content: center;
@@ -51,7 +52,7 @@ body {
     width: 100%;
 }
 
-.border a {
+.borde a {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -62,13 +63,43 @@ body {
     border-radius: 11px;
     height: 30px;
     padding: 20px;
+}
+.bordeb a:hover {
+
+    background-color: goldenrod;
+    transform: scale(0.9);
+    transition-duration: 2s;
+    
+}
+.espada {
+
+     height: 400px;
+    padding-top: 5%;
+    color: black;
+    padding-left: 20%;
+    
+    
+
+}
+
+.dragon {
+
+     height: 400px;
+    padding-top: 5%;
+    color: black;
+    padding-left: 20%;
+
+}
 
 
 
     
 
 
-}
+
+
+
+
 
 
 .lista {
